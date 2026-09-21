@@ -55,9 +55,13 @@ My work focuses on translating complex security and regulatory requirements into
 <h2>🛠️ Tools & Technologies</h2>
 
 **GRC & Risk:** ServiceNow IRM • OneTrust • Archer • ProcessUnity • AuditBoard • Drata • Vanta
+
 **Cloud & Identity:** Microsoft Azure • Azure Government • AWS • GCP • Entra ID • Conditional Access • RBAC • PIM • Key Vault
+
 **Security Operations:** Microsoft Defender • Microsoft Sentinel • Splunk • Qualys • Rapid7 • Nessus
+
 **Risk Intelligence:** SecurityScorecard • RiskRecon
+
 **GRC Engineering:** Terraform • Policy-as-Code • Rego • Conftest • GitHub • Python • Bash
 
 <hr>
