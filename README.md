@@ -63,13 +63,13 @@ My work includes translating complex security requirements into practical contro
 
 ### 📊 GRC & Risk Management Projects
 
-- **[Risk & Compliance / GRC Register](https://github.com/ankojay14-cyber/GRC/tree/main/Risk%20and%20Compliance)**
-- **[GRC Tools & Administration](https://github.com/ankojay14-cyber/GRC/tree/main/GRC%20Tools)**
+- **[Enterprise-Cybersecurity-Risk-Management-Program](https://github.com/ankojay14-cyber/Enterprise-Cybersecurity-Risk-Management-Program)**
 
 ### 📊 GRC Engineering (AWS/AZURE/GCP)
    - **AWS**
 - **[cgep-lab-2-3-compliant-s3](https://github.com/ankojay14-cyber/cgep-lab-2-3-compliant-s3)**
 - **[cgep-lab-2-5-evidence-vault](https://github.com/ankojay14-cyber/cgep-lab-2-5-evidence-vault)**
+- **[cgep-lab-3-4-conftest-gate](https://github.com/ankojay14-cyber/cgep-lab-3-4-conftest-gate)**
   - **GCP**
 - **[cgep-lab-2-4-terraform-modules](https://github.com/ankojay14-cyber/cgep-lab-2-4-terraform-modules)**
 - **[cgep-lab-3-3-rego-policies](https://github.com/ankojay14-cyber/cgep-lab-3-3-rego-policies)**
