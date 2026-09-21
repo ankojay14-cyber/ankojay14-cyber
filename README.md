@@ -74,4 +74,15 @@ My work includes translating complex security requirements into practical contro
 
 - **[Security Governance](https://github.com/ankojay14-cyber/GRC/tree/main/Governance)**
 
- 
+ ### 🏛️ FedRAMP Moderate Compliance Portfolio
+
+- **[FedRAMP-Roadmap](https://github.com/ankojay14-cyber/FedRAMP-Moderate-Compliance-Portfolio/tree/main/01-FedRAMP-Roadmap)**
+- **[Control-Implementation](https://github.com/ankojay14-cyber/FedRAMP-Moderate-Compliance-Portfolio/tree/main/02-Control-Implementation)**
+- **[SSP](https://github.com/ankojay14-cyber/FedRAMP-Moderate-Compliance-Portfolio/tree/main/03-SSP)**
+- **[3PAO-Assessment](https://github.com/ankojay14-cyber/FedRAMP-Moderate-Compliance-Portfolio/tree/main/04-3PAO-Assessment)**
+- **[POAM](https://github.com/ankojay14-cyber/FedRAMP-Moderate-Compliance-Portfolio/tree/main/05-POAM)**
+- **[Vulnerability-Management](https://github.com/ankojay14-cyber/FedRAMP-Moderate-Compliance-Portfolio/tree/main/06-Vulnerability-Management)**
+- **[Continuous-Monitoring](https://github.com/ankojay14-cyber/FedRAMP-Moderate-Compliance-Portfolio/tree/main/07-Continuous-Monitoring)**
+- **[Risk-Management](https://github.com/ankojay14-cyber/FedRAMP-Moderate-Compliance-Portfolio/tree/main/08-Risk-Management)**
+- **[Incident-Response](https://github.com/ankojay14-cyber/FedRAMP-Moderate-Compliance-Portfolio/tree/main/09-Incident-Response)**
+- **[Configuration-Management](https://github.com/ankojay14-cyber/FedRAMP-Moderate-Compliance-Portfolio/tree/main/10-Configuration-Management)**
