@@ -72,6 +72,7 @@ My work includes translating complex security requirements into practical contro
 - **[cgep-lab-2-5-evidence-vault](https://github.com/ankojay14-cyber/cgep-lab-2-5-evidence-vault)**
   - **GCP**
 - **[cgep-lab-2-4-terraform-modules](https://github.com/ankojay14-cyber/cgep-lab-2-4-terraform-modules)**
+- **[cgep-lab-3-3-rego-policies](https://github.com/ankojay14-cyber/cgep-lab-3-3-rego-policies)**
 
 ### 🔍 Third-Party Risk Management Projects
 
