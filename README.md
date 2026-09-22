@@ -25,7 +25,7 @@ My work focuses on translating complex security and regulatory requirements into
 <h3>🎯 Core Expertise</h3>
 
 - **GRC & GRC Risks** — Risk assessments, risk registers, control testing, remediation, security exceptions, KRIs/KPIs
-- **Federal & DoD Compliance** — NIST SP 800-53, NIST SP 800-171, CMMC, FedRAMP, RMF
+- **Federal & DoD Compliance** — NIST SP 800-53, NIST SP 800-171, CMMC, FedRAMP, RMF/ATO
 - **Cloud Security/GRC Engineering** — Azure, Azure Government, AWS, identity, RBAC, MFA, encryption, logging, privileged access
 - **Third-Party Risk Management** — Vendor assessments, SOC 2 reviews, due diligence, inherent/residual risk, remediation
 - **Audit & Compliance** — ISO 27001, SOC 2, HIPAA, PCI DSS
