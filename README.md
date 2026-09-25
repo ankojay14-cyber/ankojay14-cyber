@@ -54,7 +54,7 @@ My work focuses on translating complex security and regulatory requirements into
 
 <h2>🛠️ Tools & Technologies</h2>
 
-**GRC & Risk:** ServiceNow IRM • OneTrust • Archer • ProcessUnity • AuditBoard • Drata • Riskrecon  • PowerBI
+**GRC & Risk:** ServiceNow IRM • OneTrust • Archer • ProcessUnity • AuditBoard • Drata • Riskrecon  • PowerBI • Security Scorecard
 
 **Cloud & Identity:** Microsoft Azure • Azure Government • AWS • GCP • Entra ID • Conditional Access • RBAC • PIM • Key Vault
 
