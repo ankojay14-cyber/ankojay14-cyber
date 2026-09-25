@@ -77,18 +77,8 @@ These projects demonstrate practical application of cybersecurity governance, ri
 
 <h3>⚙️ GRC Engineering & Compliance Automation</h3>
 
-Hands-on cloud compliance engineering projects demonstrating automated control enforcement, evidence collection, Infrastructure-as-Code, and Policy-as-Code.
-
-#### ☁️ AWS
-
-- **[Compliant AWS S3 Security Configuration](https://github.com/ankojay14-cyber/cgep-lab-2-3-compliant-s3)** — Cloud security configuration and compliance controls for Amazon S3.
-- **[Automated Compliance Evidence Vault](https://github.com/ankojay14-cyber/cgep-lab-2-5-evidence-vault)** — Evidence collection and storage workflow supporting audit readiness.
-- **[Conftest Compliance Gate](https://github.com/ankojay14-cyber/cgep-lab-3-4-conftest-gate)** — Policy-as-Code compliance validation using Conftest.
-
-#### ☁️ GCP / Infrastructure-as-Code
-
-- **[Terraform Compliance Modules](https://github.com/ankojay14-cyber/cgep-lab-2-4-terraform-modules)** — Reusable Infrastructure-as-Code modules supporting standardized security controls.
-- **[Rego Policy-as-Code Controls](https://github.com/ankojay14-cyber/cgep-lab-3-3-rego-policies)** — Automated compliance policies using Rego for cloud configuration validation.
+- **[GRC Engineering & Compliance Automation Portfolio](https://github.com/ankojay14-cyber/GRC-Engineering-Portfolio)**  
+  Hands-on GRC engineering portfolio demonstrating Infrastructure-as-Code, Policy-as-Code, automated compliance testing, control validation, and audit evidence collection across AWS and GCP.
 
 <h3>🔍 Third-Party Risk Management</h3>
 
